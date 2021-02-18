@@ -1,25 +1,25 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Favoritos",
+      "link": "",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Meus animes favoritos",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Jujutsu Kaisen",
+          "url": "https://yayanimes.net/jujutsu-kaisen/"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Black Clover",
+          "url": "https://yayanimes.net/black-clover/"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Dr Stone",
+          "url": "https://yayanimes.net/dr-stone-stone-wars/"
         },
         {
           "titulo": "Pare de chutar e aprenda a display: inline #01",
