@@ -1,15 +1,22 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import Home from './pages/home';
+
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import CadastroAnime from './pages/cadastro/anime';
+import CadastroCategoria from './pages/cadastro/categoria';
+
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <BrowserRouter>
+    <Switch>
+      <Route path="/" component={Home} exact />
+      <Route path="/cadastro/anime" component={CadastroAnime} exact/>
+      <Route path="/cadastro/categoria" component={CadastroCategoria} exact/>
+      <Route component={()=>(<div>Erro 404</div>)} />
+    </Switch>
+    
+  </BrowserRouter>,
   document.getElementById('root')
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals

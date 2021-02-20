@@ -3,100 +3,90 @@
     {
       "titulo": "Favoritos",
       "link": "",
-      "cor": "#6BD1FF",
+      "cor": "#db1a00",
       "link_extra": {
-        "text": "Meus animes favoritos",
+        "text": "Animes que estou assistindo..",
         "url": ""
       },
       "videos": [
         {
           "titulo": "Jujutsu Kaisen",
-          "url": "https://yayanimes.net/jujutsu-kaisen/"
+          "url": "https://yayanimes.net/jujutsu-kaisen/",
+          "img": "https://yayanimes.net/CapasAnimes/J/JujutsuKaisen220x280.jpg"
         },
         {
           "titulo": "Black Clover",
-          "url": "https://yayanimes.net/black-clover/"
+          "url": "https://yayanimes.net/black-clover/",
+          "img": "https://yayanimes.net/CapasAnimes/B/BlackClover220x280.jpg"
         },
         {
           "titulo": "Dr Stone",
-          "url": "https://yayanimes.net/dr-stone-stone-wars/"
+          "url": "https://yayanimes.net/dr-stone-stone-wars/",
+          "img": "https://yayanimes.net/CapasAnimes/D/DrStone2220x280.jpg"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-        },
-        {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Code Geass 1",
+          "url": "https://yayanimes.net/code-geass-hangyaku-no-lelouch/",
+          "img": "https://yayanimes.net/CapasAnimes/C/CodeGeassHangyakunolelouch220x280.jpg"
+        }
+              
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Shingeki no Kyojin",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Todas temporadas:",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "1 Temporada",
+          "url": "https://yayanimes.net/shingeki-no-kyojin/",
+          "img": "https://yayanimes.net/CapasAnimes/S/ShingekinoKyojin.jpg"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "2 Temporada",
+          "url": "https://yayanimes.net/shingeki-no-kyojin-2/",
+          "img": "https://yayanimes.net/CapasAnimes/S/ShingekinoKyojin2.jpg"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "3 Temporada",
+          "url": "https://yayanimes.net/shingeki-no-kyojin-3/",
+          "img": "https://yayanimes.net/CapasAnimes/S/ShingekinoKyojin3.jpg"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
+          "titulo": "4 Temporada",
+          "url": "https://yayanimes.net/shingeki-no-kyojin-the-final-season/",
+          "img": "https://yayanimes.net/CapasAnimes/S/ShingekinoKyojin4.jpg"
+        } 
+       
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Haikyuu!!",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Todas temporadas:",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "1 Temporada",
+          "url": "https://yayanimes.net/haikyuu/",
+          "img": "https://yayanimes.net/CapasAnimes/H/Haikyuu!!.jpg"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "2 Temporada",
+          "url": "https://yayanimes.net/haikyuu-2/",
+          "img": "https://yayanimes.net/CapasAnimes/H/Haikyuu!!2.jpg"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "3 Temporada",
+          "url": "https://yayanimes.net/haikyuu-3/",
+          "img": "https://yayanimes.net/CapasAnimes/H/Haikyuu!!3.jpg"
         }
+        
       ]
     },
     {
@@ -123,7 +113,7 @@
     },
     {
       "titulo": "Games",
-      "cor": "red",
+      "cor": "blue",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
