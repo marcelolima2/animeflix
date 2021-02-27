@@ -54,11 +54,11 @@
     border-radius: 5px;
     text-decoration: none;
     display: inline-block;
-    transition: opacity .3s;
+    transition: opacity 0.6;
   }
   .ButtonLink:hover,
   .ButtonLink:focus {
-    opacity: .5;
+    opacity: 0.6;
   }
   
   @media (max-width: 800px) {
