@@ -1,5 +1,7 @@
-const URL_TOP = window.location.href.includes('localhost')
+const URL_BACKEND_TOP = window.location.hostname.includes('localhost')
   ? 'http://localhost:8080'
   : 'https://flixanime.herokuapp.com';
 
-export default URL_TOP;
+export default {
+  URL_BACKEND_TOP,
+};

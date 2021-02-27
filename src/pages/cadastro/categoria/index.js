@@ -19,11 +19,11 @@ function CadastroCategoria() {
   const { handleChange, values } = useForm(valoresIniciais);
 
   useEffect(() => {
-    const URL_TOP = window.location.hostname.includes('localhost')
+    const URL_SERVER = window.location.hostname.includes('localhost')
       ? 'http://localhost:8080/categorias'
       : 'https://flixanime.herokuapp.com/categorias';
 
-    fetch(URL_TOP)
+    fetch(URL_SERVER)
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
         setCategorias([
