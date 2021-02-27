@@ -29,3 +29,25 @@ export const VideoCardContainer = styled.a`
     margin-left: 20px;
   }
 `;
+
+VideoCardContainer.Title = styled.h4`
+  position: absolute;
+  align: center;
+  padding: 5%;
+  width: 100%;
+  text-align: center;
+  opacity: 0;
+  bottom: 0;   
+  text-decoration: none;
+  transition: all .5s;
+  background-color: rgb(0,0,0,.8);
+`;
+
+export const VideoCardWrapper = styled.div`
+  position: relative;
+  align: center;
+  &:hover a,
+  &:focus a{
+    opacity: 1;
+  } 
+`;
