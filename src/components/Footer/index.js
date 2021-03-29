@@ -8,7 +8,7 @@ function Footer() {
     <FooterBase>
       <img className="Logo" src={Logo} alt="Logo " />
       <p>
-        Projeto criado durante a
+        Projeto criado por Marcelo durante a
         Imersão React da Alura
       </p>
     </FooterBase>
